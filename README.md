@@ -1,6 +1,6 @@
 # tigerdo
 
-> My tiptop Nuxt.js project
+![CI](https://github.com/3x8tacorice/tigerdo/workflows/CI/badge.svg)
 
 ## Build Setup
 
